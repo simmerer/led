@@ -8,7 +8,7 @@ Links from a talk presented at [Minnebar](https://minnestar.org/minnebar/) 19, M
 - [Intermit.Tech YouTube](https://www.youtube.com/@IntermitTech)
 - [DrZzs](https://www.drzzs.com)
 
-## Analog vs Digitally Addressable
+## Analog vs digitally addressable
 
 - [Analog LEDs](https://quinled.info/analog-led-dimming/)
 - [Digitally Addressable LEDs](https://quinled.info/addressable-digital-leds/)
