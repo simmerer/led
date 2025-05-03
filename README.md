@@ -1,6 +1,6 @@
 # LED, the Way
 
-Presented at Minnebar 19, May 2025
+Links from a talk presented at [Minnebar](https://minnestar.org/minnebar/) 19, May 2025
 
 ## The biggest resources!
 
