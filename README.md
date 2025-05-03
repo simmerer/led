@@ -49,7 +49,7 @@ I mentioned a lot of Govee stuff! No affiliate links or kickbacks here - they're
 
 ## What I bought
 
-- [24v COB WS2811 LED strips](https://www.amazon.com/dp/B0C6LPPT2W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- 24v COB WS2811 LED strips [Amazon](https://www.amazon.com/dp/B0C6LPPT2W?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1), [Superbright LEDs](https://www.superlightingled.com/24-volt-addressable-rgbw-led-cob-light-strip-ultra-bright-784ledsm-p-5684.html)
 - [Dig-Uno with external wifi antenna](https://www.drzzs.com/shop/dig-uno-diy-rgb-led-controller-w-wled-preassembled/)
 - [Meanwell LRS Series power supply](https://www.meanwell.com/productSeries.aspx#:~:text=RQ%2D125-,LRS%20Series,-Wattage%20%3A)
 - [Flat 3-prong extension cords](https://www.homedepot.com/p/DEWENWILS-1-ft-SJT-14-3-Gauge-Indoor-Extension-Cord-with-3-Prong-Outlets-and-Flat-Head-3-Pack-Black-HFCB01M/329099619)
