@@ -7,7 +7,7 @@ Links from a talk presented at [Minnebar](https://minnestar.org/minnebar/) 19, M
 - [QuinLED Website](https://quinled.info)
 - [Intermit.Tech YouTube](https://www.youtube.com/@IntermitTech)
 - [DrZzs](https://www.drzzs.com)
-- WLED Project: [know.led.ge](https://kno.wled.ge)
+- WLED Project: [know.led.ge](https://kno.wled.ge) (my favorite clever domain name)
 - [Dave's Garage](https://www.youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw)
 
 ## Analog vs digitally addressable
