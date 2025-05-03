@@ -43,6 +43,7 @@ I mentioned a lot of Govee stuff! No affiliate links or kickbacks here - they're
 
 ## Power supplies
 
+- [How much power do Digital LEDs use?](https://quinled.info/2020/03/12/digital-led-power-usage/)
 - [How to choose an LED power supply](https://www.ledsupply.com/blog/how-to-choose-an-led-power-supply/)
 - [LED power supply calculator](https://www.wired4signsusa.com/pages/led-power-supply-calculator)
 
@@ -52,3 +53,9 @@ I mentioned a lot of Govee stuff! No affiliate links or kickbacks here - they're
 - [Dig-Uno with external wifi antenna](https://www.drzzs.com/shop/dig-uno-diy-rgb-led-controller-w-wled-preassembled/)
 - [Meanwell LRS Series power supply](https://www.meanwell.com/productSeries.aspx#:~:text=RQ%2D125-,LRS%20Series,-Wattage%20%3A)
 - [Flat 3-prong extension cords](https://www.homedepot.com/p/DEWENWILS-1-ft-SJT-14-3-Gauge-Indoor-Extension-Cord-with-3-Prong-Outlets-and-Flat-Head-3-Pack-Black-HFCB01M/329099619)
+
+## Etc
+
+- [Postcards from Google Earth](https://www.postcards-from-google-earth.com)
+- [I have made fire](https://www.youtube.com/watch?v=5zXWLbr1LyY)
+- [The book that I'm tooootally going to finish reading soon](https://en.wikipedia.org/wiki/Infinite_Jest)
