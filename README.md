@@ -55,6 +55,8 @@ I mentioned a lot of Govee stuff! No affiliate links or kickbacks here - they're
 - [Dig-Uno with external wifi antenna](https://www.drzzs.com/shop/dig-uno-diy-rgb-led-controller-w-wled-preassembled/)
 - [Meanwell LRS Series power supply](https://www.meanwell.com/productSeries.aspx#:~:text=RQ%2D125-,LRS%20Series,-Wattage%20%3A)
 - [Flat 3-prong extension cords](https://www.homedepot.com/p/DEWENWILS-1-ft-SJT-14-3-Gauge-Indoor-Extension-Cord-with-3-Prong-Outlets-and-Flat-Head-3-Pack-Black-HFCB01M/329099619)
+- [18/3 low-voltage in-wall wire](https://www.amazon.com/dp/B082F1J11N?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- [18/2 shielded wire](https://www.amazon.com/dp/B0D9JV1GLS?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 ## Etc
 
